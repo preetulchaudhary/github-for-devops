@@ -1,0 +1,48 @@
+1   to make an empty git repository
+   git init
+
+
+2   to push a file/code to git repository to github
+    Add it 
+    git add filename
+
+    commit it with a message
+    git commit -m "message"
+
+
+    git push origin master
+
+
+3   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
