@@ -13,7 +13,26 @@
     git push origin master
 
 
-3   
+3  to make a fork {github to github} 
+   Login to the repository to the person you wanna make a fork 
+   select the repo, click on fork and give it a name 
+   push create fork.
+   Go on your github account and check it.
+
+
+4  to make a clone {github to local}
+   login to your account on github 
+   look for the repo you wanna clone 
+   open that repo and click on CODE
+   copy the https link 
+   login to your local machine 
+   run 
+   git clone https:
+   then git add 
+   and git commit 
+
+
+5   
 
 
 
